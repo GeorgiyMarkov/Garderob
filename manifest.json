@@ -1,11 +1,9 @@
 {
- "name": "Твой Гардероб",
- "short_name": "ТГ",
- "theme_color": "#70330b",
- "background_color": "#c1b798",
- "display": "standalone",
- "orientation": "portrait",
- "start_url": ".",
+"name": "Aircraft",
+"description": "Все о самолетах",
+"start_url": "/",
+"lang": "ru",
+"display": "standalone",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
